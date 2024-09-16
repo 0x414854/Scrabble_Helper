@@ -53,7 +53,7 @@ def quit():
 
 root = tk.Tk()
 root.geometry("1000x500")
-root.title("Scrabble Helper")
+root.title("Scrabble Helper - 0x414854")
 
 input_frame = tk.Frame(root)
 input_frame.pack(pady=20)
